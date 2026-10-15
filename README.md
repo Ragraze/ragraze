@@ -1,1 +1,42 @@
-PGgxIGFsaWduPSJjZW50ZXIiPkhpIPCfkYssIEknbSBSYWthbiBGYWRoaWwgUHJheWF0YTwvaDE+CjxoMyBhbGlnbj0iY2VudGVyIj5JVCBHcmFkdWF0ZSBmcm9tIFVuaXZlcnNpdGFzIEJyYXdpamF5YSDCtyBEZXBvaywgSW5kb25lc2lhPC9oMz4KCjxwIGFsaWduPSJjZW50ZXIiPgogIDxhIGhyZWY9Imh0dHBzOi8vcG9ydGZvbGlvdjEtcmFncmF6ZS52ZXJjZWwuYXBwIj7wn4yQIFBvcnRmb2xpbzwvYT4gwrcKICA8YSBocmVmPSJodHRwczovL3d3dy5saW5rZWRpbi5jb20vaW4vcmFrYW5mYWRoaWxwIj7wn5K8IExpbmtlZEluPC9hPgo8L3A+CgotLS0KCiMjIyDwn5Go4oCN8J+SuyBBYm91dCBNZQoKLSDwn46TIElUIGdyYWR1YXRlIGZyb20gKipVbml2ZXJzaXRhcyBCcmF3aWpheWEqKgotIPCfkrsgSW50byAqKndlYiBkZXZlbG9wbWVudCoqLCAqKklUIHN1cHBvcnQqKiwgYW5kICoqbmV0d29ya2luZyoqCi0g8J+MsSBDdXJyZW50bHkgZXhwbG9yaW5nICoqQ0NOQSoqIGFuZCBob21lbGFiIHN0dWZmCi0g8J+UrSBPcGVuIHRvIHdvcmsg4oCUIGNoZWNrIG15IFtwb3J0Zm9saW9dKGh0dHBzOi8vcG9ydGZvbGlvdjEtcmFncmF6ZS52ZXJjZWwuYXBwKSBmb3IgcHJvamVjdHMgJiBleHBlcmllbmNlCi0g8J+TjSBCYXNlZCBpbiBEZXBvaywgSW5kb25lc2lhCgojIyMg8J+boO+4jyBUZWNoIFN0YWNrCgohW1R5cGVTY3JpcHRdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVR5cGVTY3JpcHQtMzE3OEM2P3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289dHlwZXNjcmlwdCZsb2dvQ29sb3I9d2hpdGUpCiFbSmF2YVNjcmlwdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tSmF2YVNjcmlwdC1GN0RGMUU/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1qYXZhc2NyaXB0JmxvZ29Db2xvcj1ibGFjaykKIVtSZWFjdF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tUmVhY3QtNjFEQUZCP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cmVhY3QmbG9nb0NvbG9yPWJsYWNrKQohW05leHQuanNdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLU5leHQuanMtMDAwMDAwP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289bmV4dGRvdGpzJmxvZ29Db2xvcj13aGl0ZSkKIVtUYWlsd2luZCBDU1NdKGh0dHBzOi8vaW1nLnNoaWVsZHMuaW8vYmFkZ2UvLVRhaWx3aW5kX0NTUy0zOEJERjg/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz10YWlsd2luZGNzcyZsb2dvQ29sb3I9d2hpdGUpCiFbUHl0aG9uXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1QeXRob24tMzc3NkFCP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289cHl0aG9uJmxvZ29Db2xvcj13aGl0ZSkKIVtOb2RlLmpzXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1Ob2RlLmpzLTMzOTkzMz9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW5vZGVkb3RqcyZsb2dvQ29sb3I9d2hpdGUpCiFbUG9zdGdyZVNRTF0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tUG9zdGdyZVNRTC00MTY5RTE/c3R5bGU9ZmxhdC1zcXVhcmUmbG9nbz1wb3N0Z3Jlc3FsJmxvZ29Db2xvcj13aGl0ZSkKIVtNb25nb0RCXShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1Nb25nb0RCLTQ3QTI0OD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPW1vbmdvZGImbG9nb0NvbG9yPXdoaXRlKQohW0RvY2tlcl0oaHR0cHM6Ly9pbWcuc2hpZWxkcy5pby9iYWRnZS8tRG9ja2VyLTI0OTZFRD9zdHlsZT1mbGF0LXNxdWFyZSZsb2dvPWRvY2tlciZsb2dvQ29sb3I9d2hpdGUpCiFbR2l0XShodHRwczovL2ltZy5zaGllbGRzLmlvL2JhZGdlLy1HaXQtRjA1MDMyP3N0eWxlPWZsYXQtc3F1YXJlJmxvZ289Z2l0JmxvZ29Db2xvcj13aGl0ZSkKCiMjIyDwn5OKIEdpdEh1YiBTdGF0cwoKPHAgYWxpZ249ImNlbnRlciI+CiAgPGltZyBzcmM9Imh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1SYWdyYXplJnNob3dfaWNvbnM9dHJ1ZSZ0aGVtZT10b2t5b25pZ2h0IiBhbHQ9IkdpdEh1YiBTdGF0cyIgLz4KICA8aW1nIHNyYz0iaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9UmFncmF6ZSZsYXlvdXQ9Y29tcGFjdCZ0aGVtZT10b2t5b25pZ2h0IiBhbHQ9IlRvcCBMYW5ndWFnZXMiIC8+CjwvcD4KCi0tLQoKPHAgYWxpZ249ImNlbnRlciI+VGhhbmtzIGZvciB2aXNpdGluZyEg4q2QPC9wPgo=
+<h1 align="center">Hi 👋, I'm Rakan Fadhil Prayata</h1>
+<h3 align="center">IT Graduate from Universitas Brawijaya · Depok, Indonesia</h3>
+
+<p align="center">
+  <a href="https://portfoliov1-ragraze.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/rakanfadhilp">💼 LinkedIn</a>
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 IT graduate from **Universitas Brawijaya**
+- 💻 Into **web development**, **IT support**, and **networking**
+- 🌱 Currently exploring **CCNA** and homelab stuff
+- 🔭 Open to work — check my [portfolio](https://portfoliov1-ragraze.vercel.app) for projects & experience
+- 📍 Based in Depok, Indonesia
+
+### 🛠️ Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">Thanks for visiting! ⭐</p>
