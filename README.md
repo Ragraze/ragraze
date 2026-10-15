@@ -1,9 +1,10 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakan+Fadhil+Prayata;IT+Graduate+%7C+Web+Developer;Networking+%26+IT+Support+Enthusiast;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakan+Fadhil+Prayata;IT+Graduate+%7C+Web+Developer;AI+%26+Networking+Enthusiast;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Ragraze&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Ragraze?label=Followers&style=flat&color=58a6ff" alt="followers" />
 </div>
 
 <p align="center">
@@ -29,14 +30,7 @@
 
 <div align="center">
 
-#### Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,php,cpp&theme=dark)](https://skillicons.dev)
-
-#### Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel&theme=dark)](https://skillicons.dev)
-
-#### Tools & Platforms
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,firebase,mongodb,postgres,debian,figma,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,php,cpp,react,nextjs,tailwind,nodejs,express,laravel,git,github,docker,vercel,firebase,mongodb,postgres,debian,figma,postman&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -45,7 +39,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
@@ -54,6 +48,36 @@
 </div>
 
 ---
+
+### 📈 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragraze&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ragraze&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ragraze&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragraze&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ragraze&theme=tokyonight&utcOffset=7" />
+</div>
+
+---
+
+### 📌 Pinned Projects
+
+<div align="center">
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=portfoliov1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/portfoliov1)
+[![Osteoporosis Classifier](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=classify-osteoporosis&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/classify-osteoporosis)
+
+[![3D Billiard](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=3d-billiard-room-opengl&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/3d-billiard-room-opengl)
+[![Agrisense](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=agrisense-model&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/agrisense-model)
+
+</div>
 
 ---
 
