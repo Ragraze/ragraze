@@ -28,22 +28,32 @@
 
 ### 🛠️ Tech Arsenal
 
-<div align="center">
+**💻 Programming Languages**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,php,cpp,react,nextjs,tailwind,nodejs,express,laravel,git,github,docker,vercel,firebase,mongodb,postgres,debian,figma,postman&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,html,css,php,cpp&theme=dark)](https://skillicons.dev)
 
-</div>
+**🚀 Frameworks & Libraries**
+
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel&theme=dark)](https://skillicons.dev)
+
+**🗄️ Databases**
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,postgres,firebase&theme=dark)](https://skillicons.dev)
+
+**🧰 Tools & DevOps**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,vercel,debian,figma,postman&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragraze&theme=tokyonight" />
 </div>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img src="https://streak-stats.demolab.com?user=Ragraze&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
@@ -51,12 +61,8 @@
 
 ### 📌 Pinned Projects
 
-<div align="center">
-
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=portfoliov1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/portfoliov1)
-[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=Ragraze&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/Ragraze)
-
-</div>
+- **[portfoliov1](https://github.com/Ragraze/portfoliov1)** — Personal portfolio website built with Next.js & Tailwind CSS ![stars](https://img.shields.io/github/stars/Ragraze/portfoliov1?style=flat&color=58a6ff)
+- **[Ragraze](https://github.com/Ragraze/Ragraze)** — My GitHub profile README ![stars](https://img.shields.io/github/stars/Ragraze/Ragraze?style=flat&color=58a6ff)
 
 ---
 
@@ -64,9 +70,8 @@
 
 ### 📫 Let's Connect!
 
-<a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:12akanfadhil@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://rakanfadhil.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="mailto:12akanfadhil@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
 
 *Thanks for stopping by! Don't forget to ⭐ my repos if you like them.*
 
