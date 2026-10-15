@@ -16,20 +16,12 @@
 
 ### 👨‍💻 About Me
 
-```typescript
-const rakan = {
-  location: "Depok, Indonesia 🇮🇩",
-  education: "IT Graduate — Universitas Brawijaya 🎓",
-  interests: ["Web Development", "IT Support", "Networking", "Homelab"],
-  currentlyLearning: ["CCNA", "Advanced Networking"],
-  openToWork: true,
-  funFact: "I run a homeserver in my room 🖥️"
-};
-```
-
-- 🔭 Building my portfolio & hunting for IT roles — see my work [here](https://portfoliov1-ragraze.vercel.app)
-- 🌱 Deep-diving into **networking** (CCNA track) and homelab experiments
-- ⚡ Fun fact: my room doubles as a mini data center
+- 🎓 **IT Graduate** from Universitas Brawijaya
+- 💻 Passionate about **web development**, **IT support**, and **networking**
+- 🌱 Currently learning **CCNA** & experimenting with my **homelab**
+- 🔭 Open to work — check out my [portfolio](https://portfoliov1-ragraze.vercel.app) for projects & experience
+- 📍 Based in **Depok, Indonesia**
+- ⚡ Fun fact: my room doubles as a mini data center 🖥️
 
 ---
 
