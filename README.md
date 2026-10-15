@@ -7,13 +7,7 @@
   <img src="https://img.shields.io/github/followers/Ragraze?label=Followers&style=flat&color=58a6ff" alt="followers" />
 </div>
 
-<p align="center">
-  <a href="https://rakanfadhil.com">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rakanfadhilp">💼 LinkedIn</a> ·
-  <a href="mailto:12akanfadhil@gmail.com">📧 Email</a>
-</p>
 
----
 
 ### 👨‍💻 About Me
 
@@ -49,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragraze&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragraze&theme=github_dark" />
 </div>
 
 <div align="center">
