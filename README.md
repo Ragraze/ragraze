@@ -67,6 +67,8 @@
 <a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="mailto:12akanfadhil@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rakanfadhil.com-58A6FF?style=for-the-badge)](https://rakanfadhil.com)
+
 *Thanks for stopping by! Don't forget to ⭐ my repos if you like them.*
 
 </div>
