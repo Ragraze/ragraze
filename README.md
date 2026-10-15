@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <a href="https://portfoliov1-ragraze.vercel.app">🌐 Portfolio</a> ·
+  <a href="https://rakanfadhil.com">🌐 Portfolio</a> ·
   <a href="https://www.linkedin.com/in/rakanfadhilp">💼 LinkedIn</a> ·
   <a href="mailto:12akanfadhil@gmail.com">📧 Email</a>
 </p>
@@ -20,7 +20,7 @@
 - 🎓 **IT Graduate** from Universitas Brawijaya
 - 💻 Passionate about **web development**, **IT support**, and **networking**
 - 🌱 Currently learning **AI / Machine Learning** & experimenting with my **homelab**
-- 🔭 Open to work — check out my [portfolio](https://portfoliov1-ragraze.vercel.app) for projects & experience
+- 🔭 Open to work — check out my [portfolio](https://rakanfadhil.com) for projects & experience
 - 📍 Based in **Depok, Indonesia**
 - ⚡ Fun fact: my room doubles as a mini data center 🖥️
 
@@ -69,7 +69,7 @@
 
 <a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:12akanfadhil@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://portfoliov1-ragraze.vercel.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://rakanfadhil.com"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 *Thanks for stopping by! Don't forget to ⭐ my repos if you like them.*
 
