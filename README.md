@@ -1,42 +1,96 @@
-<h1 align="center">Hi 👋, I'm Rakan Fadhil Prayata</h1>
-<h3 align="center">IT Graduate from Universitas Brawijaya · Depok, Indonesia</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Rakan+Fadhil+Prayata;IT+Graduate+%7C+Web+Developer;Networking+%26+IT+Support+Enthusiast;Welcome+to+my+GitHub+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ragraze&label=Profile%20views&color=58a6ff&style=flat" alt="profile views" />
+</div>
 
 <p align="center">
   <a href="https://portfoliov1-ragraze.vercel.app">🌐 Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/rakanfadhilp">💼 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rakanfadhilp">💼 LinkedIn</a> ·
+  <a href="mailto:12akanfadhil@gmail.com">📧 Email</a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 IT graduate from **Universitas Brawijaya**
-- 💻 Into **web development**, **IT support**, and **networking**
-- 🌱 Currently exploring **CCNA** and homelab stuff
-- 🔭 Open to work — check my [portfolio](https://portfoliov1-ragraze.vercel.app) for projects & experience
-- 📍 Based in Depok, Indonesia
+```typescript
+const rakan = {
+  location: "Depok, Indonesia 🇮🇩",
+  education: "IT Graduate — Universitas Brawijaya 🎓",
+  interests: ["Web Development", "IT Support", "Networking", "Homelab"],
+  currentlyLearning: ["CCNA", "Advanced Networking"],
+  openToWork: true,
+  funFact: "I run a homeserver in my room 🖥️"
+};
+```
 
-### 🛠️ Tech Stack
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+- 🔭 Building my portfolio & hunting for IT roles — see my work [here](https://portfoliov1-ragraze.vercel.app)
+- 🌱 Deep-diving into **networking** (CCNA track) and homelab experiments
+- ⚡ Fun fact: my room doubles as a mini data center
 
 ---
 
-<p align="center">Thanks for visiting! ⭐</p>
+### 🛠️ Tech Arsenal
+
+<div align="center">
+
+#### Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,php,cpp&theme=dark)](https://skillicons.dev)
+
+#### Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,laravel&theme=dark)](https://skillicons.dev)
+
+#### Tools & Platforms
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,vercel,firebase,mongodb,postgres,debian,figma,postman&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ragraze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Ragraze&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragraze&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ragraze&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="Trophies" />
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ragraze/Ragraze/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:12akanfadhil@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://portfoliov1-ragraze.vercel.app"><img src="https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+*Thanks for stopping by! Don't forget to ⭐ my repos if you like them.*
+
+</div>
