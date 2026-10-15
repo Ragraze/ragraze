@@ -18,7 +18,7 @@
 
 - 🎓 **IT Graduate** from Universitas Brawijaya
 - 💻 Passionate about **web development**, **IT support**, and **networking**
-- 🌱 Currently learning **CCNA** & experimenting with my **homelab**
+- 🌱 Currently learning **AI / Machine Learning** & experimenting with my **homelab**
 - 🔭 Open to work — check out my [portfolio](https://portfoliov1-ragraze.vercel.app) for projects & experience
 - 📍 Based in **Depok, Indonesia**
 - ⚡ Fun fact: my room doubles as a mini data center 🖥️
@@ -51,18 +51,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Ragraze&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ragraze&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Activity Graph" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ragraze&theme=tokyonight&no-frame=true&margin-w=8&row=1" alt="Trophies" />
 </div>
 
 ---
