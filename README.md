@@ -54,10 +54,7 @@
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=portfoliov1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/portfoliov1)
-[![Osteoporosis Classifier](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=classify-osteoporosis&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/classify-osteoporosis)
-
-[![3D Billiard](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=3d-billiard-room-opengl&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/3d-billiard-room-opengl)
-[![Agrisense](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=agrisense-model&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/agrisense-model)
+[![Profile](https://github-readme-stats.vercel.app/api/pin/?username=Ragraze&repo=Ragraze&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/Ragraze/Ragraze)
 
 </div>
 
