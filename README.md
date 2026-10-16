@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?](https://github-readme-streak-stats.herokuapp.com?user=Ragraze&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Ragraze&hide_border=true" />
 </div>
 
 ---
