@@ -16,7 +16,7 @@
 - 🌱 **AI** & **self-host** enthusiast
 - 🔭 Open to work — check out my [portfolio](https://rakanfadhil.com) for projects & experience
 - 📍 Based in **Depok, Indonesia**
-- ⚡ Fun fact: my room has a mini server 🖥️
+- ⚡ Fun fact: my room has a mini pc home server 🖥️
 
 ---
 
