@@ -44,6 +44,9 @@
 
 <div align="center">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ragraze&theme=github_dark&title_color=ffffff&text_color=ffffff&border_color=0d1117&icon_color=ffffff&chart_color=ffffff" />
+</div>
+
+<div align="center">
   <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ragraze&theme=github_dark&utcOffset=0&title_color=ffffff&text_color=ffffff&border_color=0d1117&icon_color=ffffff&chart_color=ffffff" />
 </div>
 
