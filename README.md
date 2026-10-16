@@ -57,6 +57,10 @@
 </div>
 
 <div align="center">
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/wakatime?username=ragraze&theme=github_dark&title_color=ffffff&text_color=ffffff&border_color=0d1117&icon_color=ffffff&chart_color=ffffff" />
+</div>
+
+<div align="center">
   <img height="170em" src="https://streak-stats.demolab.com?user=Ragraze&background=0d1117&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9e9e9e" />
 </div>
 
