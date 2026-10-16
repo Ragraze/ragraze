@@ -13,10 +13,10 @@
 
 - 🎓 **IT Graduate** from Universitas Brawijaya
 - 💻 Passionate about **web development**, **IT support**, and **networking**
-- 🌱 Currently learning **AI / Machine Learning** & experimenting with my **homelab**
+- 🌱 Currently learning **AI** & experimenting with my **homelab**
 - 🔭 Open to work — check out my [portfolio](https://rakanfadhil.com) for projects & experience
 - 📍 Based in **Depok, Indonesia**
-- ⚡ Fun fact: my room doubles as a mini data center 🖥️
+- ⚡ Fun fact: my room has a mini server 🖥️
 
 ---
 
