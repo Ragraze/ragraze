@@ -43,7 +43,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ragraze&theme=apprentice" />
+  <img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=holi&title_color=ffffff" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
 </div>
 
