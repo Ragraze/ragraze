@@ -49,13 +49,6 @@
 
 ---
 
-### 📌 Pinned Projects
-
-- **[portfoliov1](https://github.com/Ragraze/portfoliov1)** — Personal portfolio website built with Next.js & Tailwind CSS ![stars](https://img.shields.io/github/stars/Ragraze/portfoliov1?style=flat&color=58a6ff)
-- **[Ragraze](https://github.com/Ragraze/Ragraze)** — My GitHub profile README ![stars](https://img.shields.io/github/stars/Ragraze/Ragraze?style=flat&color=58a6ff)
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect!
