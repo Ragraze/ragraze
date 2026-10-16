@@ -67,7 +67,7 @@
 ### 📫 Let's Connect!
 
 <a href="https://www.linkedin.com/in/rakanfadhilp"><img src="https://skillicons.dev/icons?i=linkedin" width="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="mailto:contact@rakanfadhil.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=contact@rakanfadhil.com&tf=cm"><img src="https://skillicons.dev/icons?i=gmail" width="48" alt="Gmail" /></a>&nbsp;&nbsp;
 <a href="https://wa.me/6285157573405"><img src="https://raw.githubusercontent.com/Ragraze/Ragraze/main/icons/whatsapp.svg" width="48" alt="WhatsApp" /></a>&nbsp;&nbsp;
 <a href="https://rakanfadhil.com"><img src="https://raw.githubusercontent.com/Ragraze/Ragraze/main/icons/chrome.svg" width="48" alt="Portfolio" /></a>
 
