@@ -13,7 +13,7 @@
 
 - 🎓 **IT Graduate** from Universitas Brawijaya
 - 💻 Passionate about **web development**, **IT support**, and **networking**
-- 🌱 Currently learning **AI** & experimenting with my **homelab**
+- 🌱 **AI** & **self-host** enthusiast
 - 🔭 Open to work — check out my [portfolio](https://rakanfadhil.com) for projects & experience
 - 📍 Based in **Depok, Indonesia**
 - ⚡ Fun fact: my room has a mini server 🖥️
