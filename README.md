@@ -53,7 +53,7 @@
 </div>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Ragraze&hide_border=true&title_color=ffffff&text_color=ffffff&border_color=0d1117&icon_color=ffffff&chart_color=ffffff" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=Ragraze&hide_border=true" />
 </div>
 
 ---
