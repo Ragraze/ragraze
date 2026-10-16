@@ -48,7 +48,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragraze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" />
-  <img src="https://streak-stats.demolab.com?user=Ragraze&background=0d1117&hide_border=true&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=9e9e9e" alt="GitHub Streak" />
 </div>
 
 ---
